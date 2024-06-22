@@ -23,3 +23,4 @@ class TestCalc(unittest.TestCase):
 
     def test_sqrt(self):
         self.assertEqual(self.calc.sqrt(9), 3)
+
